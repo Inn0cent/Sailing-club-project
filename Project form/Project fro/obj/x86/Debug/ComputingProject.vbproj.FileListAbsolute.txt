@@ -1,0 +1,3 @@
+\\newtoy\pupils$\2010\10KNOCHA\A-level IT\Compuing project\Project form\Project fro\obj\x86\Debug\ComputingProject.vbprojResolveAssemblyReference.cache
+\\newtoy\pupils$\2010\10KNOCHA\A-level IT\Compuing project\Project form\Project fro\obj\x86\Debug\ComputingProject.Form2.resources
+\\newtoy\pupils$\2010\10KNOCHA\A-level IT\Compuing project\Project form\Project fro\obj\x86\Debug\ComputingProject.vbproj.GenerateResource.Cache

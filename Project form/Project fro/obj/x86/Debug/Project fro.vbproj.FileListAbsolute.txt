@@ -1,0 +1,11 @@
+\\newtoy\pupils$\2010\10KNOCHA\A-level IT\Compuing project\Project form\Project fro\bin\Debug\Project fro.exe
+\\newtoy\pupils$\2010\10KNOCHA\A-level IT\Compuing project\Project form\Project fro\bin\Debug\Project fro.pdb
+\\newtoy\pupils$\2010\10KNOCHA\A-level IT\Compuing project\Project form\Project fro\bin\Debug\Project fro.xml
+\\newtoy\pupils$\2010\10KNOCHA\A-level IT\Compuing project\Project form\Project fro\obj\x86\Debug\WindowsApplication1.Resources.resources
+\\newtoy\pupils$\2010\10KNOCHA\A-level IT\Compuing project\Project form\Project fro\obj\x86\Debug\WindowsApplication1.Form1.resources
+\\newtoy\pupils$\2010\10KNOCHA\A-level IT\Compuing project\Project form\Project fro\obj\x86\Debug\Project fro.vbproj.GenerateResource.Cache
+\\newtoy\pupils$\2010\10KNOCHA\A-level IT\Compuing project\Project form\Project fro\obj\x86\Debug\Project fro.exe
+\\newtoy\pupils$\2010\10KNOCHA\A-level IT\Compuing project\Project form\Project fro\obj\x86\Debug\Project fro.xml
+\\newtoy\pupils$\2010\10KNOCHA\A-level IT\Compuing project\Project form\Project fro\obj\x86\Debug\Project fro.pdb
+\\newtoy\pupils$\2010\10KNOCHA\A-level IT\Compuing project\Project form\Project fro\obj\x86\Debug\WindowsApplication1.Form2.resources
+\\newtoy\pupils$\2010\10KNOCHA\A-level IT\Compuing project\Project form\Project fro\obj\x86\Debug\Project fro.vbprojResolveAssemblyReference.cache
